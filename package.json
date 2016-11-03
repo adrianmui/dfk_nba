@@ -1,0 +1,28 @@
+{
+  "name": "nbajs",
+  "version": "1.0.0",
+  "description": "nbajsonapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "'hello world'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianmui/dfk_nba.git"
+  },
+  "keywords": [
+    "nba",
+    "api",
+    "nodejs",
+    "json"
+  ],
+  "author": "adrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianmui/dfk_nba/issues"
+  },
+  "homepage": "https://github.com/adrianmui/dfk_nba#readme",
+  "dependencies": {
+    "nba.js": "^0.3.2"
+  }
+}
